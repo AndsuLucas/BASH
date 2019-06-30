@@ -1,8 +1,9 @@
 #!/bin/bash
 
 function total_file {
-	find -type f | wc -l 
+
+	find $1 -type f | wc -l 
 }
 
-total_file
+total_file /home/andersonlucas
 

@@ -1,6 +1,0 @@
-tar: Removendo `/' inicial dos nomes dos membros
-tar: Removendo `/' inicial dos nomes dos membros
-tar: Removendo `/' inicial dos nomes dos membros
-tar: Removendo `/' inicial dos nomes dos membros
-tar: Removendo `/' inicial dos nomes dos membros
-tar: /home/andersonlucas/repositorios/BASH: arquivo alterado enquanto estava sendo lido
